@@ -1,7 +1,8 @@
 
-function getSortedEvenNumbers(numbers){
+/*function getSortedEvenNumbers(numbers){
     return numbers
 }
+*/
 /*
  function getSortedEvenNumbers(numbers) {
      let evenNumbers = [];
